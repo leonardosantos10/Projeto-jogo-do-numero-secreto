@@ -7,4 +7,4 @@
 
 
 <h3>imagem abaixo Para Site:</h3>
-  <img src= "https://github.com/leonardosantos10/Projeto-Formul-rio-login/blob/main/assets/foto%20form%C3%BAlario.png?raw=true"/>
+  <img src= "https://github.com/leonardosantos10/Projeto-jogo-do-numero-secreto/blob/main/img/img%20desktop.png?raw=true"/>
