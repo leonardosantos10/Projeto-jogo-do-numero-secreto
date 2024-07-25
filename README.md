@@ -7,10 +7,10 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 
 <p>
-  - Lógica em Programação.
+  - Lógica em Programação,
   Descrição: Neste Projeto desenvolvi habilidades em Javascript:
-  - funções com parâmetros 
-  - Funções com retorno,tipo booleano
+  - funções com parâmetros,
+  - Funções com retorno,tipo booleano,
   - funções que verificar números, 
   Desenvolvi esse Projetos com as seguintes tecnologias:</p>
 <h3>Desenvolvido Tanto Para desktop e mobile!</h3>
