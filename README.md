@@ -6,6 +6,6 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 
-<p>Descrição: Neste Projeto desenvolvir a Lógica em Programação e Trabalhei com Funções e variáveis do Javascript</p>
+<p>Descrição: Neste Projeto desenvolvi a Lógica em Programação e Trabalhei com Funções e variáveis do Javascript</p>
 <h3>Desenvolvido Tanto Para desktop e mobile!</h3>
   <img src= "https://github.com/leonardosantos10/Projeto-jogo-do-numero-secreto/blob/main/img/img%20desktop.png?raw=true"/>
