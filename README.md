@@ -3,7 +3,8 @@
   - Lógica em Programação,
   - Descrição: Neste Projeto desenvolvi habilidades em Javascript:,
   - funções com parâmetros,
-  - Funções com retorno,tipo booleano</p>
+  - Funções com retorno,tipo booleano,
+  - funções que verificar números </p>
 <br/>
 
 
