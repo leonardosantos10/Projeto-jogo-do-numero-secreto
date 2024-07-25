@@ -1,8 +1,8 @@
-<p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:,
+<p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
   
-  - Lógica em Programação,
-  - funções com parâmetros,
-  - Funções com retorno,tipo booleano,
+  - Lógica em Programação
+  - funções com parâmetros
+  - Funções com retorno,tipo booleano
   - funções que verificar números
   - Descrição: Neste Projeto utilizei a seguintes tecnologias Com: </p>
   
