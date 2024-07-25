@@ -4,7 +4,7 @@
   - funções com parâmetros,
   - Funções com retorno,tipo booleano,
   - funções que verificar números
-  - Descrição: Neste Projeto desenvolvi Com: </p>
+  - Descrição: Neste Projeto utilizei a seguintes tecnologias Com: </p>
   
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
