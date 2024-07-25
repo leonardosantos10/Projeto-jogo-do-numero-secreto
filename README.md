@@ -8,6 +8,10 @@
 
 <p>
   - Lógica em Programação.
-  Descrição: Neste Projeto desenvolvi com Funções e variáveis do Javascript</p>
+  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
+  - funções com parâmetros 
+  - Funções com retorno,tipo booleano
+  - funções que verificar números, 
+  Desenvolvi esse Projetos com as seguintes tecnologias:</p>
 <h3>Desenvolvido Tanto Para desktop e mobile!</h3>
   <img src= "https://github.com/leonardosantos10/Projeto-jogo-do-numero-secreto/blob/main/img/img%20desktop.png?raw=true"/>
