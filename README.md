@@ -7,6 +7,7 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
 
 <p>
-  - Lógica em ProgramaçãoDescrição: Neste Projeto desenvolvi com Funções e variáveis do Javascript</p>
+  - Lógica em Programação.
+  Descrição: Neste Projeto desenvolvi com Funções e variáveis do Javascript</p>
 <h3>Desenvolvido Tanto Para desktop e mobile!</h3>
   <img src= "https://github.com/leonardosantos10/Projeto-jogo-do-numero-secreto/blob/main/img/img%20desktop.png?raw=true"/>
