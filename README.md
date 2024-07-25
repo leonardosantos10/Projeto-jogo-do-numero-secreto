@@ -1,9 +1,9 @@
 <p>Descrição: Neste Projeto desenvolvi Com:
   
-  - HTML semântico,
-  - Grid layout em diversos breakpoints,
-  - Flexbox Responsivo ,
-  - utilizei as tecnologias HTML: Estrutura e CSS: estilização, cores,tamanhos</p>
+  - Lógica em Programação,
+  - Descrição: Neste Projeto desenvolvi habilidades em Javascript:,
+  - funções com parâmetros,
+  - Funções com retorno,tipo booleano</p>
 <br/>
 
 
