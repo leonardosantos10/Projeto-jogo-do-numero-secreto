@@ -1,6 +1,6 @@
-<p>Descrição: Neste Projeto desenvolvi Com:
+<p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:,
   
-  - Descrição: Neste Projeto desenvolvi habilidades em Javascript:, 
+  - Descrição: Neste Projeto desenvolvi Com:
   - Lógica em Programação,
   - funções com parâmetros,
   - Funções com retorno,tipo booleano,
