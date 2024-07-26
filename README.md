@@ -1,3 +1,4 @@
+<h1>Jogo Do número secreto, no qual e usuário tem que adivinhar o número escondido</h1>
 <p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
   
   - Lógica de Programação
