@@ -1,6 +1,6 @@
 <h1>Jogo Do número secreto</h1>
 
-<h4>no qual o usuário tem que adivinhar o número escondido</h4>
+<h4>adivinhar o número escondido</h4>
 <p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
   
   - funções com parâmetros
