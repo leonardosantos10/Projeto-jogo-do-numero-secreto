@@ -3,7 +3,6 @@
 <h4>no qual o usuário tem que adivinhar o número escondido</h4>
 <p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
   
-  - Lógica de Programação
   - funções com parâmetros
   - Funções com retorno,tipo booleano
   - funções que verificar números
